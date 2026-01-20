@@ -1,3 +1,4 @@
+# **Weekly Projects**
 student marks analyzer using python and numpy 
 
 Take input for the number of students (n) and number of subjects (s) — the same for all students.
@@ -11,3 +12,7 @@ Convert the student averages list into a NumPy array for easier mathematical ope
 Use NumPy functions to find total of all students’ averages, overall average, highest average, and lowest average.
 
 Assign a grade based on the overall average using conditional statements (if-elif-else).
+
+Author,
+Kavana Sanmane
+Computer Science and Engineering Student
